@@ -1,4 +1,4 @@
-![image]()
+![image](https://github.com/gabrieldickman/recipe-page/blob/main/assets/images/preview.jpg)
 
 # Recipe Page
 Solução feita para o [Recipe page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/recipe-page-KiTsR8QQKm).
